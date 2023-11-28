@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Файл с продавцами -->
+<root>
+    <sellers>
+        <seller>
+            <seller_id>1</seller_id>
+            <lastname>Иванов</lastname>
+            <firstname>Петр</firstname>
+        </seller>
+        <seller>
+            <seller_id>2</seller_id>
+            <lastname>Сидоров</lastname>
+            <firstname>Иван</firstname>
+        </seller>
+        <seller>
+            <seller_id>3</seller_id>
+            <lastname>Смирнова</lastname>
+            <firstname>Ульяна</firstname>
+        </seller>
+        <seller>
+            <seller_id>4</seller_id>
+            <lastname>Ефремова</lastname>
+            <firstname>Алиса</firstname>
+        </seller>
+        <seller>
+            <seller_id>5</seller_id>
+            <lastname>Чумаков</lastname>
+            <firstname>Владимир</firstname>
+        </seller>
+        <seller>
+            <seller_id>6</seller_id>
+            <lastname>Кочеткова</lastname>
+            <firstname>Мия</firstname>
+        </seller>
+    </sellers>
+</root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Файл с товарами -->
+<root>
+    <products>
+        <product>
+            <product_id>1</product_id>
+            <name>яблоко</name>
+        </product>
+        <product>
+            <product_id>2</product_id>
+            <name>апельсин</name>
+        </product>
+        <product>
+            <product_id>3</product_id>
+            <name>персик</name>
+        </product>
+        <product>
+            <product_id>4</product_id>
+            <name>ананас</name>
+        </product>
+        <product>
+            <product_id>5</product_id>
+            <name>банан</name>
+        </product>
+        <product>
+            <product_id>6</product_id>
+            <name>груша</name>
+        </product>
+    </products>
+</root>
